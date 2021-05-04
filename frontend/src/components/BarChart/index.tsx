@@ -11,7 +11,7 @@ export default function BarChart() {
 
   const mockData = {
     labels: {
-      categories: ['Anakin', 'Obi-Wan', 'Luke', 'Padmé', 'Bruce Wayne']
+      categories: ['Anakin', 'Obi-Wan', 'Luke', 'Padmé', 'Snape']
     },
     series: [
       {

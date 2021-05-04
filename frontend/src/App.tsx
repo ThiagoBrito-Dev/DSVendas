@@ -7,8 +7,11 @@ import DonutChart from "components/DonutChart";
 function App() {
   return (
     <>
-      <NavBar />
-      <div className="container">
+      <header>
+        <NavBar />
+      </header>
+
+      <main className="container">
         <h1 className="text-primary py-3">Dashboard de vendas</h1>
         <div className="row px-3">
           <div className="col-sm-6">
@@ -24,7 +27,8 @@ function App() {
           <h2 className="py-3 text-primary">Todas vendas</h2>
           <DataTable />
         </div>
-      </div>
+      </main>
+
       <Footer />
     </>
   );
