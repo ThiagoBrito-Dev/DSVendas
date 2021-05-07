@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import imgDsDark from '../../assets/img/ds-dark.svg';
 
 export default function NavBar() {
@@ -16,7 +17,9 @@ export default function NavBar() {
     >
       <div className="container">
         <nav className="my-2 my-md-0 mr-md-3">
-          <img src={imgDsDark} alt="DevSuperior logo" width={120} />
+          <Link to="/">
+            <img src={imgDsDark} alt="DevSuperior logo" width={120} />
+          </Link>
         </nav>
       </div>
     </div>
