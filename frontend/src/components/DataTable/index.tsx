@@ -17,7 +17,7 @@ export default function DataTable() {
   });
 
   useEffect(() => {
-    axios.get(`${BASE_URL}/sales?page=${currentPage}&size=20&sort=date,desc`).then(response => {
+    axios.get(`https://thiago-dsvendas.herokuapp.com/sales?page=${currentPage}&size=20&sort=date,desc`).then(response => {
       setPageData(response.data)
     });
   }, [currentPage]);
