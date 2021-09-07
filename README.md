@@ -19,7 +19,7 @@
 
 <div align="center">
     <a href="https://thiago-dsvendas.netlify.app/" target="_blank">
-      <img src="https://api.netlify.com/api/v1/badges/a6f9797bf94975815c0428f9c5d437991413a736/deploy-status" />
+      <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" />
     </a>
     <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400" />
     <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=ff8400" />
