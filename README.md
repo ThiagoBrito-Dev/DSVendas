@@ -18,7 +18,7 @@
 </h4>
 
 <div align="center">
-    <a href="https://thiago-dsvendas.netlify.app/" target="_blank">
+    <a href="https://thiago-dsvendas.netlify.app/" target="_blank" rel="noopener noreferrer">
       <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" />
     </a>
     <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400" />
@@ -41,8 +41,8 @@
 
 - [x] Listar dados relacionados com as atividades diárias de cada vendedor;
 - [x] Paginar o registro de dados diários;
-- [x] Calcular e exibir gráfico de barra com as taxas de sucesso de cada vendedor; e
-- [x] Calcular e exibir gráfico de rosca com os rendimentos totais de cada vendedor;
+- [x] Calcular e exibir um gráfico de barras com as taxas de sucesso de cada vendedor; e
+- [x] Calcular e exibir um gráfico de rosca com os rendimentos totais de cada vendedor;
 
 <hr>
 
