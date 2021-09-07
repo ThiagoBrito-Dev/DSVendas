@@ -18,7 +18,7 @@
 </h4>
 
 <div align="center">
-    <a href="https://thiago-dsvendas.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <a href="https://thiago-dsvendas.netlify.app/">
       <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" />
     </a>
     <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400" />
