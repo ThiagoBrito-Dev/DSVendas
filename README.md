@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h1>DSVendas</h1>
-    <img src="./.github/dsvendas.png">
+    <img src="./.github/dsvendas.png" />
     <h3>
       📊 Um dashboard detalhado sobre as atividades dos vendedores de uma empresa fictícia, o que inclui o número de vendas efetuadas por dia, a taxa de sucesso e o rendimento total de cada um.
     </h3>
@@ -116,6 +116,6 @@ $ yarn start
 
 <div>
   <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README.md">Portuguese (pt-br)</a> 
-  |   
+  |
   <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README-en.md">English (en-us)</a>
 </div>
