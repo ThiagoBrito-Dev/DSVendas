@@ -115,7 +115,7 @@ $ yarn start
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README.md">Portuguese (pt-br)</a> 
+  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README.md">Portuguese (pt-br)</a>
   |
   <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README-en.md">English (en-us)</a>
 </div>
