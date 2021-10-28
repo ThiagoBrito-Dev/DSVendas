@@ -19,11 +19,10 @@
 
 <div align="center">
     <a href="https://thiago-dsvendas.netlify.app/">
-      <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" />
-    </a>
-    <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400&style=flat-square" />
-    <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=ff8400&style=flat-square" />
-    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=ff8400&style=flat-square" />
+      <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" /></a>
+    <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=ff8400&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=ff8400&style=for-the-badge" />
 </div>
 
 <br/>
@@ -101,11 +100,9 @@ $ yarn start
     <h4>E aí Dev, gostou da aplicação? Bom, se quiser, fique à vontade para entrar em contato comigo por aqui ou pelas tags abaixo.</h4>
     <br />
     <a href="https://www.linkedin.com/in/thiagoranierybrito/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" />
-    </a>
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoranierybrito/" /></a>
     <a href="mailto:thiagobritotrs@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" />
-    </a>
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thiagobritotrs@gmail.com" /></a>
 </div>
 
 <hr>
