@@ -54,7 +54,7 @@ Well, having everything installed, we can proceed to the step by step of how to 
 
 ```bash
 # First of all, clone this repo using GIT
-$ git clone <https://github.com/ThiagoBrito-Dev/DSVendas>
+$ git clone <https://github.com/trybrito/DSVendas>
 
 # Access the project folder from the command terminal
 $ cd .../DSVendas
@@ -97,7 +97,7 @@ $ yarn dev
 ### 👨🏽‍🎓 Author
 
 <div align="center">
-  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+  <img src="https://github.com/trybrito.png" width="250px" />
 
   <br />
   
@@ -123,7 +123,7 @@ $ yarn dev
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README.md">Portuguese (pt-br)</a>
+  <a href="https://github.com/trybrito/DSVendas/blob/main/README.md">Portuguese (pt-br)</a>
   |
-  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README-en.md">English (en-us)</a>
+  <a href="https://github.com/trybrito/DSVendas/blob/main/README-en.md">English (en-us)</a>
 </div>
