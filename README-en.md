@@ -19,7 +19,7 @@
   <div>
     <a href="https://thiago-dsvendas.netlify.app/">
       <img src="https://api.netlify.com/api/v1/badges/3d72cf27-bf99-44cd-b7e7-660d2d14845b/deploy-status" /></a>
-    <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=ff8400&style=for-the-badge" />
+    <img src="https://img.shields.io/github/license/trybrito/Podcastr?color=ff8400&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=ff8400&style=for-the-badge" />
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=ff8400&style=for-the-badge" />
   </div>
