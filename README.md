@@ -75,6 +75,14 @@ $ yarn start
 
 ### 🔮 Tecnologias utilizadas
 
+#### Backend
+
+- [Java](https://www.java.com/pt-BR/)
+- [Spring](https://spring.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+#### Frontend
+
 - [HTML](https://devdocs.io/html/)
 - [CSS](https://devdocs.io/css/)
 - [Bootstrap](https://getbootstrap.com/)
