@@ -54,7 +54,7 @@ Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a apl
 
 ```bash
 # Primeiramente, clone este repositório com o GIT
-$ git clone <https://github.com/ThiagoBrito-Dev/DSVendas>
+$ git clone <https://github.com/trybrito/DSVendas>
 
 # Acesse a pasta do projeto pelo terminal de comando
 $ cd .../DSVendas
@@ -97,7 +97,7 @@ $ yarn start
 ### 👨🏽‍🎓 Autor
 
 <div align="center">
-  <img src="https://github.com/ThiagoBrito-Dev.png" width="250px" />
+  <img src="https://github.com/trybrito.png" width="250px" />
 
   <br />
 
@@ -123,7 +123,7 @@ $ yarn start
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README.md">Portuguese (pt-br)</a>
+  <a href="https://github.com/trybrito/DSVendas/blob/main/README.md">Portuguese (pt-br)</a>
   |
-  <a href="https://github.com/ThiagoBrito-Dev/DSVendas/blob/main/README-en.md">English (en-us)</a>
+  <a href="https://github.com/trybrito/DSVendas/blob/main/README-en.md">English (en-us)</a>
 </div>
